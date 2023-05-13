@@ -1,6 +1,6 @@
 from kinopoisk_api import KP
 
-kinopoisk = KP(token='Push your token here')
+kinopoisk = KP(token='be5114b9-31c7-4d3d-b88e-874fb3cf8f11')
 
 search = kinopoisk.search('Догвилль')
 
