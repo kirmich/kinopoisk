@@ -45,13 +45,20 @@ def get_data(id):
     country = []
     type_obj = None
 
-    request = requests.get(kinopoisk.API + 'films/' + str(id), headers=kinopoisk.headers).text
+    req = requests.get(kinopoisk.API + 'films/' + str(id), headers=kinopoisk.headers)
+    # print(req)
+
+    if req.status_code != 200:
+        b = []
+        return b
+
+    request = req.text
     covet = json.loads(request)
 
     # if str(id) in cache:
     #     print(cache[id])
     #
-    print(covet)
+    # print(covet)
     #
     # cache[str(id)] = covet['data']
     # CACHE().write(cache)
@@ -88,14 +95,15 @@ def get_data(id):
     return data_film
 
 for i in spisok_film:
-    if len(data) > 10:
-        break
-
     data.append(get_data(i))
-    print('Завершено ', round(((1 / len(spisok_film)) * len(data) * 100), 1), '%')
+
+    print('Записан id', i)
+    print('Завершено', round(((1 / len(spisok_film)) * len(data) * 100), 1), '%;  ', len(data), 'из', len(spisok_film),)
     end = time.time() - start
-    print(end)
-    # time.sleep(3)
+    print('Прошло', round(end, 2), 'сек.')
+    time.sleep(3)
+    # if len(data) > 10:
+    #     break
 
 
 
@@ -107,6 +115,6 @@ col = ['Фильм?', 'Кинопоиск', 'IMDB', 'Название', 'Ори�
 df_film = pd.DataFrame(data, columns=col)
 
 print(df_film)
-# df_film.to_excel('./film.xlsx')
+df_film.to_excel('./film.xlsx')
 
-# print('Информация записана в файл')
+print('Информация записана в файл')
