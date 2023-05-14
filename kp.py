@@ -22,6 +22,7 @@ with open("spisok.txt", "r") as file:
         if line[25:31] == 'series':
             spisok_film.append(line[32:-2])
 
+
 # class CACHE:
 #     def __init__(self):
 #         self.PATH = os.path.dirname(os.path.abspath(__file__))
@@ -46,7 +47,7 @@ def get_data(id):
     type_obj = None
 
     req = requests.get(kinopoisk.API + 'films/' + str(id), headers=kinopoisk.headers)
-    # print(req)
+    # print(req.text)
 
     if req.status_code != 200:
         b = []
@@ -74,8 +75,10 @@ def get_data(id):
 
 
 
+
     for i in covet['data']['genres']:
         genres.append(i['genre'])
+
 
     for i in covet['data']['countries']:
         country.append(i['country'])
@@ -88,8 +91,8 @@ def get_data(id):
                  covet['data']['year'],
                  len(covet['data']['seasons']),
                  covet['data']['filmLength'],
-                 genres,
-                 country,
+                 ', '.join(genres),
+                 ', '.join(country),
                  covet['data']['description'],
                  ]
     return data_film
@@ -101,20 +104,24 @@ for i in spisok_film:
     print('Завершено', round(((1 / len(spisok_film)) * len(data) * 100), 1), '%;  ', len(data), 'из', len(spisok_film),)
     end = time.time() - start
     print('Прошло', round(end, 2), 'сек.')
-    time.sleep(3)
-    # if len(data) > 10:
+    # time.sleep(3)
+    # if len(data) > 5:
     #     break
 
+print('Информация собрана, записей - ', len(data))
 
+col = ['Фильм?',
+       'Кинопоиск',
+       'IMDB',
+       'Название',
+       'Оригинальное название',
+       'Год', 'Кол-во сезонов',
+       'Продолжительность',
+       'Жанр', 'Страна',
+       'Описание',
+       ]
 
-print(len(data))
-print(data)
-print('Информация собрана')
-
-col = ['Фильм?', 'Кинопоиск', 'IMDB', 'Название', 'Оригинальное название', 'Год', 'Кол-во сезонов', 'Продолжительность', 'Жанр', 'Страна',  'Описание']
 df_film = pd.DataFrame(data, columns=col)
-
 print(df_film)
 df_film.to_excel('./film.xlsx')
-
 print('Информация записана в файл')
