@@ -48,6 +48,7 @@ def get_data(id):
 
     req = requests.get(kinopoisk.API + 'films/' + str(id), headers=kinopoisk.headers)
     # print(req.text)
+    request_json = json.loads(req.text)
 
     if req.status_code != 200:
         b = []

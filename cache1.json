@@ -1,0 +1,839 @@
+{
+    "1263786": {
+        "filmId": 1263786,
+        "nameRu": "\u0412\u044b\u0431\u044b\u0432\u0448\u0430\u044f",
+        "nameEn": "The Dropout",
+        "webUrl": "https://www.kinopoisk.ru/film/1263786/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1263786.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1263786.jpg",
+        "year": 2022,
+        "filmLength": null,
+        "slogan": "She Had the World at the Tip of Her Finger",
+        "description": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u042d\u043b\u0438\u0437\u0430\u0431\u0435\u0442 \u0425\u043e\u043b\u043c\u0441 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u0438 \u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u044e \u0432\u00a0\u043e\u0442\u0440\u0430\u0441\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a\u00a0\u043e\u043d\u0430 \u0431\u0440\u043e\u0441\u0438\u043b\u0430 \u043a\u043e\u043b\u043b\u0435\u0434\u0436 \u0438\u00a0\u043e\u0441\u043d\u043e\u0432\u0430\u043b\u0430 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044e Theranos.",
+        "type": "MINI_SERIES",
+        "ratingMpaa": null,
+        "ratingAgeLimits": null,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "2022-03-02",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [
+            {
+                "country": "\u0421\u0428\u0410"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "\u0431\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+            },
+            {
+                "genre": "\u0434\u0440\u0430\u043c\u0430"
+            }
+        ],
+        "facts": [
+            "\u041e\u0441\u043d\u043e\u0432\u0430\u043d\u043e \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u043e\u0431\u044b\u0442\u0438\u044f\u0445."
+        ],
+        "seasons": [
+            {
+                "number": 1,
+                "episodes": [
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 1,
+                        "nameRu": null,
+                        "nameEn": "I'm in a Hurry",
+                        "synopsis": "",
+                        "releaseDate": "2022-03-03"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 2,
+                        "nameRu": null,
+                        "nameEn": "Satori",
+                        "synopsis": "",
+                        "releaseDate": "2022-03-03"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 3,
+                        "nameRu": null,
+                        "nameEn": "Green Juice",
+                        "synopsis": "",
+                        "releaseDate": "2022-03-03"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 4,
+                        "nameRu": null,
+                        "nameEn": "Old White Men",
+                        "synopsis": "",
+                        "releaseDate": "2022-03-10"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 5,
+                        "nameRu": null,
+                        "nameEn": "Flower of Life",
+                        "synopsis": "",
+                        "releaseDate": "2022-03-17"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 6,
+                        "nameRu": null,
+                        "nameEn": "Iron Sisters",
+                        "synopsis": "",
+                        "releaseDate": "2022-03-24"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 7,
+                        "nameRu": null,
+                        "nameEn": "Heroes",
+                        "synopsis": "",
+                        "releaseDate": "2022-03-31"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 8,
+                        "nameRu": null,
+                        "nameEn": "Lizzy",
+                        "synopsis": "",
+                        "releaseDate": "2022-04-07"
+                    }
+                ]
+            }
+        ]
+    },
+    "1048685": {
+        "filmId": 1048685,
+        "nameRu": "\u0420\u0435\u043b\u043b\u0438\u043a",
+        "nameEn": "Rellik",
+        "webUrl": "https://www.kinopoisk.ru/film/1048685/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1048685.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1048685.jpg",
+        "year": 2017,
+        "filmLength": null,
+        "slogan": "To know the truth, go back.",
+        "description": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0441\u0435\u0440\u0438\u0439\u043d\u043e\u0433\u043e \u0443\u0431\u0438\u0439\u0446\u044b, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043d\u043d\u0430\u044f \u0432 \u043e\u0431\u0440\u0430\u0442\u043d\u043e\u043c \u043f\u043e\u0440\u044f\u0434\u043a\u0435. \u041e\u0441\u043d\u043e\u0432\u043e\u0439 \u043f\u043e\u0432\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u0438\u0447\u0438\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0438\u0432\u0435\u043b\u0438 \u043a \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044e \u0446\u0435\u043b\u043e\u0439 \u0446\u0435\u043f\u0438 \u043f\u0440\u0435\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0439. \u0420\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f \u0434\u0435\u0442\u0435\u043a\u0442\u0438\u0432 \u0413\u044d\u0431\u0440\u0438\u044d\u043b \u041c\u044d\u0440\u043a\u0435\u043c \u0438 \u0435\u0433\u043e \u043d\u0430\u043f\u0430\u0440\u043d\u0438\u0446\u0430 \u042d\u043b\u0435\u0439\u043d.",
+        "type": "MINI_SERIES",
+        "ratingMpaa": null,
+        "ratingAgeLimits": null,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "2017-09-11",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [
+            {
+                "country": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "\u0434\u0435\u0442\u0435\u043a\u0442\u0438\u0432"
+            },
+            {
+                "genre": "\u0434\u0440\u0430\u043c\u0430"
+            },
+            {
+                "genre": "\u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b"
+            },
+            {
+                "genre": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+            }
+        ],
+        "facts": [
+            "\u0421\u043b\u043e\u0432\u043e &laquo;\u0420\u0435\u043b\u043b\u0438\u043a&raquo; \u2014 \u044d\u0442\u043e &laquo;\u041a\u0438\u043b\u043b\u0435\u0440&raquo; \u0437\u0430\u0434\u043e\u043c \u043d\u0430\u043f\u0435\u0440\u0451\u0434. \u0422\u043e\u0447\u043d\u043e \u0442\u0430\u043a \u0436\u0435 \u2014 \u0437\u0430\u0434\u043e\u043c \u043d\u0430\u043f\u0435\u0440\u0451\u0434 \u2014 \u0440\u0430\u0437\u0432\u043e\u0440\u0430\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0441\u044e\u0436\u0435\u0442 \u0444\u0438\u043b\u044c\u043c\u0430."
+        ],
+        "seasons": [
+            {
+                "number": 1,
+                "episodes": [
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 1,
+                        "nameRu": null,
+                        "nameEn": null,
+                        "synopsis": "",
+                        "releaseDate": "2017-09-11"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 2,
+                        "nameRu": null,
+                        "nameEn": null,
+                        "synopsis": "",
+                        "releaseDate": "2017-09-18"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 3,
+                        "nameRu": null,
+                        "nameEn": null,
+                        "synopsis": "",
+                        "releaseDate": "2017-09-25"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 4,
+                        "nameRu": null,
+                        "nameEn": null,
+                        "synopsis": "",
+                        "releaseDate": "2017-10-02"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 5,
+                        "nameRu": null,
+                        "nameEn": null,
+                        "synopsis": "",
+                        "releaseDate": "2017-10-09"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 6,
+                        "nameRu": null,
+                        "nameEn": null,
+                        "synopsis": "",
+                        "releaseDate": "2017-10-16"
+                    }
+                ]
+            }
+        ]
+    },
+    "4481731": {
+        "filmId": 4481731,
+        "nameRu": "\u041c\u0435\u0434\u0432\u0435\u0434\u044c",
+        "nameEn": "The Bear",
+        "webUrl": "https://www.kinopoisk.ru/film/4481731/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4481731.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4481731.jpg",
+        "year": 2022,
+        "filmLength": "00:30",
+        "slogan": null,
+        "description": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439 \u0448\u0435\u0444-\u043f\u043e\u0432\u0430\u0440 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0427\u0438\u043a\u0430\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u043c \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u043c.",
+        "type": "TV_SERIES",
+        "ratingMpaa": null,
+        "ratingAgeLimits": null,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "2022-06-23",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [
+            {
+                "country": "\u0421\u0428\u0410"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "\u0434\u0440\u0430\u043c\u0430"
+            },
+            {
+                "genre": "\u043a\u043e\u043c\u0435\u0434\u0438\u044f"
+            }
+        ],
+        "facts": [
+            "\u0412 \u0441\u0435\u0440\u0438\u0430\u043b\u0435 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043d\u0430 \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u043e\u0433\u043e \u0447\u0438\u043a\u0430\u0433\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c Mr. Beef.",
+            "<a href=\"/name/4565406/\" class=\"all\">\u041c\u044d\u0442\u0442\u0438 \u041c\u044d\u0442\u0438\u0441\u043e\u043d</a> \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0448\u0435\u0444-\u043f\u043e\u0432\u0430\u0440\u043e\u043c. \u0412\u043e \u0432\u0441\u0451\u043c \u0441\u0435\u0440\u0438\u0430\u043b\u0435 \u043e\u043d \u043d\u0438 \u0440\u0430\u0437\u0443 \u043d\u0435 \u043f\u043e\u043a\u0430\u0437\u0430\u043d \u0447\u0442\u043e-\u043b\u0438\u0431\u043e \u0433\u043e\u0442\u043e\u0432\u044f\u0449\u0438\u043c.",
+            "\u0413\u043e\u0442\u043e\u0432\u044f\u0441\u044c \u043a \u0441\u044a\u0451\u043c\u043a\u0430\u043c, <a href=\"/name/1053904/\" class=\"all\">\u0414\u0436\u0435\u0440\u0435\u043c\u0438 \u0410\u043b\u043b\u0435\u043d \u0423\u0430\u0439\u0442</a> \u0434\u0432\u0435 \u043d\u0435\u0434\u0435\u043b\u0438 \u0445\u043e\u0434\u0438\u043b \u043d\u0430 \u043f\u043e\u0432\u0430\u0440\u0441\u043a\u0438\u0435 \u043a\u0443\u0440\u0441\u044b \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0432 \u0440\u0430\u0437\u043d\u044b\u0445 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430\u0445.",
+            "\u0412 \u043e\u0431\u0440\u0430\u0437\u0435 \u041a\u0430\u0440\u043c\u0438 \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0447\u0435\u0440\u0442\u044b \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0433\u043e \u0447\u0438\u043a\u0430\u0433\u0441\u043a\u043e\u0433\u043e \u0448\u0435\u0444-\u043f\u043e\u0432\u0430\u0440\u0430 \u0438 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u0442\u043e\u0440\u0430 \u0427\u0430\u0440\u043b\u0438 \u0422\u0440\u043e\u0442\u0442\u0435\u0440\u0430."
+        ],
+        "seasons": [
+            {
+                "number": 0,
+                "episodes": [
+                    {
+                        "seasonNumber": 0,
+                        "episodeNumber": 0,
+                        "nameRu": null,
+                        "nameEn": "Pilot",
+                        "synopsis": null,
+                        "releaseDate": null
+                    }
+                ]
+            },
+            {
+                "number": 1,
+                "episodes": [
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 1,
+                        "nameRu": null,
+                        "nameEn": "System",
+                        "synopsis": "",
+                        "releaseDate": "2022-06-23"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 2,
+                        "nameRu": null,
+                        "nameEn": "Hands",
+                        "synopsis": "",
+                        "releaseDate": "2022-06-23"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 3,
+                        "nameRu": null,
+                        "nameEn": "Brigade",
+                        "synopsis": "",
+                        "releaseDate": "2022-06-23"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 4,
+                        "nameRu": null,
+                        "nameEn": "Dogs",
+                        "synopsis": "",
+                        "releaseDate": "2022-06-23"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 5,
+                        "nameRu": null,
+                        "nameEn": "Sheridan",
+                        "synopsis": "",
+                        "releaseDate": "2022-06-23"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 6,
+                        "nameRu": null,
+                        "nameEn": "Ceres",
+                        "synopsis": "",
+                        "releaseDate": "2022-06-23"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 7,
+                        "nameRu": null,
+                        "nameEn": "Review",
+                        "synopsis": "",
+                        "releaseDate": "2022-06-23"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 8,
+                        "nameRu": null,
+                        "nameEn": "Braciole",
+                        "synopsis": "",
+                        "releaseDate": "2022-06-23"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "episodes": [
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 1,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 2,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-23"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 3,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 4,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 5,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 6,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 7,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 8,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 9,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 10,
+                        "nameRu": null,
+                        "nameEn": "",
+                        "synopsis": "",
+                        "releaseDate": "2023-06-22"
+                    }
+                ]
+            }
+        ]
+    },
+    "4420223": {
+        "filmId": 4420223,
+        "nameRu": "\u041c\u044d\u0440 \u041a\u0438\u043d\u0433\u0441\u0442\u0430\u0443\u043d\u0430",
+        "nameEn": "Mayor of Kingstown",
+        "webUrl": "https://www.kinopoisk.ru/film/4420223/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4420223.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4420223.jpg",
+        "year": 2021,
+        "filmLength": null,
+        "slogan": null,
+        "description": "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u041a\u0438\u043d\u0433\u0441\u0442\u0430\u0443\u043d \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u043f\u043e\u043b\u043d\u043e\u043c \u0443\u043f\u0430\u0434\u043a\u0435, \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0438\u043d\u043e\u0441\u044f\u0449\u0430\u044f \u0434\u043e\u0445\u043e\u0434 \u043e\u0442\u0440\u0430\u0441\u043b\u044c \u2014 \u0442\u044e\u0440\u0435\u043c\u043d\u044b\u0439 \u0431\u0438\u0437\u043d\u0435\u0441. \u0413\u043e\u0440\u043e\u0434\u043a\u043e\u043c \u043d\u0435\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u0435\u043c\u044c\u044f \u041c\u0430\u043a\u043b\u0430\u0441\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u044b\u0445, \u0438 \u043f\u043e\u043b\u0438\u0446\u0438\u044e, \u0438 \u043c\u0435\u0441\u0442\u043d\u0443\u044e \u0432\u043b\u0430\u0441\u0442\u044c.",
+        "type": "TV_SERIES",
+        "ratingMpaa": null,
+        "ratingAgeLimits": null,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "2021-11-13",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [
+            {
+                "country": "\u0421\u0428\u0410"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "\u0434\u0440\u0430\u043c\u0430"
+            },
+            {
+                "genre": "\u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b"
+            },
+            {
+                "genre": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+            }
+        ],
+        "facts": [],
+        "seasons": [
+            {
+                "number": 1,
+                "episodes": [
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 1,
+                        "nameRu": null,
+                        "nameEn": "The Mayor of Kingstown",
+                        "synopsis": "",
+                        "releaseDate": "2021-11-13"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 2,
+                        "nameRu": null,
+                        "nameEn": "The End Begins",
+                        "synopsis": "",
+                        "releaseDate": "2021-11-14"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 3,
+                        "nameRu": null,
+                        "nameEn": "Simply Murder",
+                        "synopsis": "",
+                        "releaseDate": "2021-11-21"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 4,
+                        "nameRu": null,
+                        "nameEn": "The Price",
+                        "synopsis": "",
+                        "releaseDate": "2021-11-28"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 5,
+                        "nameRu": null,
+                        "nameEn": "Orion",
+                        "synopsis": "",
+                        "releaseDate": "2021-12-05"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 6,
+                        "nameRu": null,
+                        "nameEn": "Every Feather",
+                        "synopsis": "",
+                        "releaseDate": "2021-12-12"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 7,
+                        "nameRu": null,
+                        "nameEn": "Along Came a Spider",
+                        "synopsis": "",
+                        "releaseDate": "2021-12-19"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 8,
+                        "nameRu": null,
+                        "nameEn": "The Devil Is Us",
+                        "synopsis": "",
+                        "releaseDate": "2021-12-26"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 9,
+                        "nameRu": null,
+                        "nameEn": "The Lie of the Truth",
+                        "synopsis": "",
+                        "releaseDate": "2022-01-02"
+                    },
+                    {
+                        "seasonNumber": 1,
+                        "episodeNumber": 10,
+                        "nameRu": null,
+                        "nameEn": "This Piece of My Soul",
+                        "synopsis": "",
+                        "releaseDate": "2022-01-09"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "episodes": [
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 1,
+                        "nameRu": null,
+                        "nameEn": "Never Missed a Pigeon",
+                        "synopsis": "",
+                        "releaseDate": "2023-01-15"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 2,
+                        "nameRu": null,
+                        "nameEn": "Staring at the Devil",
+                        "synopsis": "",
+                        "releaseDate": "2023-01-22"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 3,
+                        "nameRu": null,
+                        "nameEn": "Five at Five",
+                        "synopsis": "",
+                        "releaseDate": "2023-01-29"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 4,
+                        "nameRu": null,
+                        "nameEn": "The Pool",
+                        "synopsis": "",
+                        "releaseDate": "2023-02-05"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 5,
+                        "nameRu": null,
+                        "nameEn": "Kill Box",
+                        "synopsis": "",
+                        "releaseDate": "2023-02-12"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 6,
+                        "nameRu": null,
+                        "nameEn": "Left with the Nose",
+                        "synopsis": "",
+                        "releaseDate": "2023-02-19"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 7,
+                        "nameRu": null,
+                        "nameEn": "Drones",
+                        "synopsis": "",
+                        "releaseDate": "2023-02-26"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 8,
+                        "nameRu": null,
+                        "nameEn": "Santa Jesus",
+                        "synopsis": "",
+                        "releaseDate": "2023-03-05"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 9,
+                        "nameRu": null,
+                        "nameEn": "Peace in the Valley",
+                        "synopsis": "",
+                        "releaseDate": "2023-03-12"
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "episodeNumber": 10,
+                        "nameRu": null,
+                        "nameEn": "Little Green Ant",
+                        "synopsis": "",
+                        "releaseDate": "2023-03-19"
+                    }
+                ]
+            }
+        ]
+    },
+    "4420": {
+        "filmId": 4420,
+        "nameRu": "\u041f\u043e\u043f\u043b\u0430\u0447\u044c \u043f\u043e \u043c\u043d\u0435, \u0411\u0438\u043b\u043b\u0438",
+        "nameEn": "Cry for Me, Billy",
+        "webUrl": "https://www.kinopoisk.ru/film/4420/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4420.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4420.jpg",
+        "year": 1972,
+        "filmLength": "01:33",
+        "slogan": "For a white man and an Indian girl, there was nothing romantic about the old west.",
+        "description": "\u0411\u0440\u043e\u0434\u044f\u0433\u0430 \u0432\u043b\u044e\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u0438\u043d\u0434\u0438\u0430\u043d\u043a\u0443, \u0447\u0442\u043e \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0442\u0440\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438.",
+        "type": "FILM",
+        "ratingMpaa": "r",
+        "ratingAgeLimits": null,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "1976-05-28",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f (\u0413\u0414\u0420)",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [
+            {
+                "country": "\u0421\u0428\u0410"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "\u0432\u0435\u0441\u0442\u0435\u0440\u043d"
+            },
+            {
+                "genre": "\u0434\u0440\u0430\u043c\u0430"
+            },
+            {
+                "genre": "\u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b"
+            },
+            {
+                "genre": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+            }
+        ],
+        "facts": [],
+        "seasons": []
+    },
+    "1367826": {
+        "filmId": 1367826,
+        "nameRu": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u0430",
+        "nameEn": "Schachnovelle",
+        "webUrl": "https://www.kinopoisk.ru/film/1367826/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1367826.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1367826.jpg",
+        "year": 2021,
+        "filmLength": "01:50",
+        "slogan": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0445\u043e\u0434 \u2013 \u043d\u0430\u0434\u0435\u0436\u0434\u0430 \u043d\u0430 \u0436\u0438\u0437\u043d\u044c",
+        "description": "\u0412\u0435\u043d\u0430, 1938 \u0433\u043e\u0434. \u042e\u0440\u0438\u0441\u0442 \u0419\u043e\u0437\u0435\u0444 \u0411\u0430\u0440\u0442\u043e\u043a \u0432\u043c\u0435\u0441\u0442\u0435 \u0441\u00a0\u0436\u0435\u043d\u043e\u0439 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u044c \u043e\u043a\u043a\u0443\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u043d\u0430\u0446\u0438\u0441\u0442\u0430\u043c\u0438 \u0410\u0432\u0441\u0442\u0440\u0438\u044e, \u043d\u043e\u00a0\u0435\u0433\u043e \u0430\u0440\u0435\u0441\u0442\u043e\u0432\u044b\u0432\u0430\u0435\u0442 \u0433\u0435\u0441\u0442\u0430\u043f\u043e. \u041e\u0442\u00a0\u0411\u0430\u0440\u0442\u043e\u043a\u0430 \u0442\u0440\u0435\u0431\u0443\u044e\u0442 \u0432\u044b\u0434\u0430\u0442\u044c \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e\u00a0\u043a\u043b\u0438\u0435\u043d\u0442\u0430\u0445, \u0430\u00a0\u043f\u043e\u0441\u043b\u0435 \u043e\u0442\u043a\u0430\u0437\u0430 \u043f\u043e\u043c\u0435\u0449\u0430\u044e\u0442 \u0432\u00a0\u043e\u0434\u0438\u043d\u043e\u0447\u043d\u043e\u0435 \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0438\u00a0\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u043b\u0438\u0448\u0430\u044e\u0442 \u0441\u0432\u044f\u0437\u0438 \u0441\u00a0\u0432\u043d\u0435\u0448\u043d\u0438\u043c \u043c\u0438\u0440\u043e\u043c. \u041d\u043e\u00a0\u043e\u0434\u043d\u0430\u0436\u0434\u044b \u0419\u043e\u0437\u0435\u0444\u0443 \u0443\u0434\u0430\u0435\u0442\u0441\u044f \u0443\u043a\u0440\u0430\u0441\u0442\u044c \u0443\u00a0\u0441\u0432\u043e\u0438\u0445 \u0442\u044e\u0440\u0435\u043c\u0449\u0438\u043a\u043e\u0432 \u043a\u043d\u0438\u0433\u0443 \u043e\u00a0\u0448\u0430\u0445\u043c\u0430\u0442\u0430\u0445. \u041e\u043d\u0430\u00a0\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0434\u043b\u044f\u00a0\u043d\u0435\u0433\u043e \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0438\u00a0\u0441\u043f\u0430\u0441\u0435\u043d\u0438\u0435\u043c, \u0438\u00a0\u043e\u043f\u0430\u0441\u043d\u044b\u043c \u043d\u0430\u0432\u0430\u0436\u0434\u0435\u043d\u0438\u0435\u043c\u2026",
+        "type": "FILM",
+        "ratingMpaa": null,
+        "ratingAgeLimits": 16,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "2021-08-29",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [
+            {
+                "country": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+            },
+            {
+                "country": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "\u0434\u0440\u0430\u043c\u0430"
+            },
+            {
+                "genre": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+            }
+        ],
+        "facts": [],
+        "seasons": []
+    },
+    "136782": {
+        "filmId": 136782,
+        "nameRu": "\u041d\u043e\u0447\u044c \u043a\u0440\u043e\u0432\u0430\u0432\u044b\u0445 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+        "nameEn": "La horripilante bestia humana",
+        "webUrl": "https://www.kinopoisk.ru/film/136782/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/136782.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/136782.jpg",
+        "year": 1969,
+        "filmLength": "01:23",
+        "slogan": "Half man, half beast, all horror",
+        "description": "\u0418\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0445\u0438\u0440\u0443\u0440\u0433, \u0434\u043e\u043a\u0442\u043e\u0440 \u041a\u0440\u0435\u043b\u043b\u043c\u0430\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0432\u0435\u0441\u0442\u0438\u0435, \u0447\u0442\u043e \u0435\u0433\u043e \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u0438\u043b\u0435\u0442\u043d\u0438\u0439 \u0441\u044b\u043d \u0425\u0443\u043b\u0438\u043e \u0431\u043e\u043b\u0435\u043d \u043d\u0435\u0438\u0437\u043b\u0435\u0447\u0438\u043c\u043e\u0439 \u0431\u043e\u043b\u0435\u0437\u043d\u044c\u044e. \u0422\u043e\u0433\u0434\u0430 \u0434\u043e\u043a\u0442\u043e\u0440 \u0440\u0435\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u043e\u0447\u0435\u043d\u044c \u0440\u0438\u0441\u043a\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442: \u043e\u043d \u043f\u0435\u0440\u0435\u0441\u0430\u0436\u0438\u0432\u0430\u0435\u0442 \u0441\u044b\u043d\u0443 \u0441\u0435\u0440\u0434\u0446\u0435 \u0433\u043e\u0440\u0438\u043b\u043b\u044b. \u041e\u043d \u0441\u0447\u0438\u0442\u0430\u0435\u0442, \u0447\u0442\u043e \u043e\u043d\u043e \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u0438\u043b\u044c\u043d\u0435\u0435, \u0447\u0435\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u043e\u0435. \u0425\u0443\u043b\u0438\u043e \u0443\u0434\u0430\u0435\u0442\u0441\u044f \u0432\u044b\u0436\u0438\u0442\u044c. \u041d\u043e \u0442\u0435\u043f\u0435\u0440\u044c \u043e\u043d \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u043f\u043e\u043b\u0443-\u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u043f\u043e\u043b\u0443-\u043e\u0431\u0435\u0437\u044c\u044f\u043d\u0443. \u0415\u0433\u043e \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u043c\u0435\u043d\u044f\u0442\u044c\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043e\u0431\u0435\u0437\u044c\u044f\u043d\u044c\u044f \u043f\u0440\u0438\u0440\u043e\u0434\u0430 \u0431\u0435\u0440\u0435\u0442 \u0432\u0432\u0435\u0440\u0445 \u043d\u0430\u0434 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u043e\u0439...",
+        "type": "FILM",
+        "ratingMpaa": "r",
+        "ratingAgeLimits": 18,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "1969-02-06",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [
+            {
+                "country": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "\u0443\u0436\u0430\u0441\u044b"
+            },
+            {
+                "genre": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+            }
+        ],
+        "facts": [],
+        "seasons": []
+    },
+    "1376782": {
+        "filmId": 1376782,
+        "nameRu": null,
+        "nameEn": "Victoria Secrets backstage",
+        "webUrl": "https://www.kinopoisk.ru/film/1376782/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1376782.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1376782.jpg",
+        "year": 2018,
+        "filmLength": null,
+        "slogan": null,
+        "description": null,
+        "type": "VIDEO",
+        "ratingMpaa": null,
+        "ratingAgeLimits": null,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "2018-11-08",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u0421\u0428\u0410",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [],
+        "genres": [
+            {
+                "genre": "\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0439"
+            },
+            {
+                "genre": "\u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c\u0435\u0442\u0440\u0430\u0436\u043a\u0430"
+            }
+        ],
+        "facts": [],
+        "seasons": []
+    },
+    "13767": {
+        "filmId": 13767,
+        "nameRu": "\u041c\u0430\u043b\u044b\u0448\u0438 \u0432 \u0441\u0442\u0440\u0430\u043d\u0435 \u0438\u0433\u0440\u0443\u0448\u0435\u043a",
+        "nameEn": "Babes in Toyland",
+        "webUrl": "https://www.kinopoisk.ru/film/13767/",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/13767.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/13767.jpg",
+        "year": 1961,
+        "filmLength": "01:46",
+        "slogan": "The happiest, most delightful musical comedy of your lifetime!",
+        "description": null,
+        "type": "FILM",
+        "ratingMpaa": "g",
+        "ratingAgeLimits": null,
+        "premiereRu": null,
+        "distributors": "",
+        "premiereWorld": "1961-12-14",
+        "premiereDigital": null,
+        "premiereWorldCountry": "\u0421\u0428\u0410",
+        "premiereDvd": null,
+        "premiereBluRay": null,
+        "distributorRelease": "",
+        "countries": [
+            {
+                "country": "\u0421\u0428\u0410"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "\u043a\u043e\u043c\u0435\u0434\u0438\u044f"
+            },
+            {
+                "genre": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+            },
+            {
+                "genre": "\u043c\u044e\u0437\u0438\u043a\u043b"
+            },
+            {
+                "genre": "\u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0439"
+            },
+            {
+                "genre": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+            }
+        ],
+        "facts": [],
+        "seasons": []
+    }
+}
