@@ -51,14 +51,21 @@ for film_id in spisok_film:
         data = {}
         # print('из реквеста:')
         req = requests.get(kinopoisk.API + 'films/' + str(film_id), headers=kinopoisk.headers)
-        # print('рек: ', req)
+        print('requests: ', req)
         request_json = json.loads(req.text)
         cache[str(film_id)] = request_json['data']
         rate_request = requests.get(f'https://rating.kinopoisk.ru/{film_id}.xml').text
-        cache[str(film_id)]['kp_rate'] = xml.fromstring(rate_request)[0].text
-        cache[str(film_id)]['imdb_rate'] = xml.fromstring(rate_request)[1].text
+        try:
+            cache[str(film_id)]['kp_rate'] = xml.fromstring(rate_request)[0].text
+        except:
+            cache[str(film_id)]['kp_rate'] = None
+        try:
+            cache[str(film_id)]['imdb_rate'] = xml.fromstring(rate_request)[1].text
+        except:
+            cache[str(film_id)]['imdb_rate'] = None
         # print(cache[str(film_id)])
         data = cache[str(film_id)]
+        time.sleep(1)
 
 
         with open('cache1.json', 'w') as f:
@@ -96,6 +103,7 @@ for film_id in spisok_film:
 
     db_film.append(data_film)
     print('Выполнено', len(db_film), 'из', len(spisok_film), )
+
 
 
 # print(db_film)
